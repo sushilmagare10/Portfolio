@@ -50,13 +50,13 @@ function Contact() {
                     placeholder='Your Email'
                     required
                     maxLength={500}
-                    className='h-14 rounded-lg border border-black/10 p-4 dark:outline-none' />
+                    className='h-14 rounded-lg border border-black/10 p-4 dark:outline-none dark:text-gray-700' />
                 <textarea
                     name='message'
                     placeholder='Your Message...'
                     required
                     maxLength={5000}
-                    className='h-52 rounded-lg border border-black/10 p-4 dark:outline-none' />
+                    className='h-52 rounded-lg border border-black/10 p-4 dark:outline-none dark:text-gray-700' />
                 <SubmitButton />
             </form>
         </m.section>
