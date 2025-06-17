@@ -28,7 +28,7 @@ function Intro() {
                     >
                         <Image
 
-                            src="https://m.media-amazon.com/images/M/MV5BMDkwZmEyYzktMTI1NS00NDBjLThhZTctMGRjMmIyYjFhNWYyXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+                            src="/profile.jpg"
                             alt='Profile image'
                             width='192'
                             height='192'
